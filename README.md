@@ -15,13 +15,16 @@ Dogecoin Mining Tool (Free DOGE Rewards)
 <h3>2) You can check Dogecoin[$DOGE] balance!</h4>
 <img src="https://i.ibb.co/3pgn7GW/3.png" alt="3" border="0"></br>
 
-<h3>3) You can send your DOGE to your exchange wallet!</h4>
+<h3>3) You can send your $DOGE to your exchange wallet!</h4>
 <img src="https://i.ibb.co/ns4gFP5/4.png" alt="4" border="0">
-<h4>- Please note that you must reach a certain $DOGE limit for this transaction.</h4></br>
+<h4>- Please note that you must reach a certain $DOGE limit for this transaction.</h4>
+<h4>- The wallet address must belong to the BNB Smart Chain(BEP20) network!</h4>
+</br>
 
 <h3>3) You can check BNB Gas limit!</h4>
 <img src="https://i.ibb.co/CW0khKy/5.png" alt="5" border="0">
-<h4>- You will need to pay a small fee to keep your coins! You will need some BNB for this!</h4></br>
+<h4>- You will need to pay a small fee to keep your coins! You will need some BNB(BNB Coin) for this!</h4></br>
+<h4>- You can send using the BNB Smart Chain(BEP20) network!</h4>
 
 <h3>4) And you can start CPU mining!</h4>
 <img src="https://i.ibb.co/CW0khKy/5.png" alt="5" border="0">
