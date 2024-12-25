@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://i.ibb.co/F4K9qv6/doge.png" alt="doge" border="0"></div>
+<div style="text-align:center"><img src="https://i.ibb.co/F4K9qv6/doge.png"></div>
 
 # Dogecoin Mining Tool (Free DOGE Rewards)
 
