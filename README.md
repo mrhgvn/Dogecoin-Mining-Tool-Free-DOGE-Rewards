@@ -29,5 +29,5 @@
 <h4>- You can send using the BNB Smart Chain(BEP20) network!</h4></br>
 
 <h3>4) And you can start CPU mining!</h4>
-<img src="https://i.ibb.co/CW0khKy/5.png" alt="5" border="0">
+<img src="https://i.ibb.co/whcMvdZ/6.png" alt="6" border="0">
 <h4>- You will need to be a little patient to get the free rewards! Enjoy!</h4>
