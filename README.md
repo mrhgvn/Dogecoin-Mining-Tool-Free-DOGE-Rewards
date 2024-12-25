@@ -32,6 +32,3 @@
 <h3>4) And you can start CPU mining!</h4>
 <img src="https://i.ibb.co/whcMvdZ/6.png" alt="6" border="0">
 <h4>- You will need to be a little patient to get the free rewards! Enjoy!</h4></br>
-
-<p align="center"><img src="https://i.ibb.co/F4K9qv6/doge.png"></p>
-<p align="center"><img src="https://i.ibb.co/Cmj3xGv/dw.png" alt="dw" border="0"></p>
