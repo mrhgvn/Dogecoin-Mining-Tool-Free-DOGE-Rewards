@@ -1,4 +1,4 @@
-<center><a href="https://github.com/mrhgvn/Dogecoin-Mining-Tool-Free-DOGE-Rewards"><img src="https://i.ibb.co/F4K9qv6/doge.png" alt="doge" border="0"></a></center>
+<div style="text-align:center"><img src="https://i.ibb.co/F4K9qv6/doge.png" alt="doge" border="0"></div>
 
 # Dogecoin Mining Tool (Free DOGE Rewards)
 
