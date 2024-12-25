@@ -1,3 +1,5 @@
+<center><a href="https://github.com/mrhgvn/Dogecoin-Mining-Tool-Free-DOGE-Rewards"><img src="https://i.ibb.co/F4K9qv6/doge.png" alt="doge" border="0"></a></center>
+
 # Dogecoin Mining Tool (Free DOGE Rewards)
 
 <h3><b>-</b> Download and Extract "Dogecoin Mining Tool" .zip file!</h3>
