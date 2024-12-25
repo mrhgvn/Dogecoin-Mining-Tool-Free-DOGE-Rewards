@@ -19,6 +19,7 @@ Dogecoin Mining Tool (Free DOGE Rewards)
 <img src="https://i.ibb.co/ns4gFP5/4.png" alt="4" border="0">
 <h4>- Please note that you must reach a certain $DOGE limit for this transaction.</h4>
 <h4>- The wallet address must belong to the BNB Smart Chain(BEP20) network!</h4>
+<h4>- Make sure you entered the wallet address correctly!</h4>
 </br>
 
 <h3>3) You can check BNB Gas limit!</h4>
