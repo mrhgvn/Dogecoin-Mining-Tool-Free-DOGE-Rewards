@@ -6,6 +6,7 @@
 
 <h2>HOW TO USE?</h2>
 <h4>- It is very simple to use!</h4>
+<h4>- All you need is an internet connection and time!</h4>
 <h3>1) First you need to create a new account!</h4>
 <img src="https://i.ibb.co/yYCW61T/1.png" alt="1" border="0">
 <img src="https://i.ibb.co/Ryg4ryV/2.png" alt="2" border="0">
