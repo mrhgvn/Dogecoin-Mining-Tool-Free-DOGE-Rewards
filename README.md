@@ -20,7 +20,7 @@
 <h4>- Please note that you must reach a certain $DOGE limit for this transaction.</h4>
 <h4>- The wallet address must belong to the BNB Smart Chain(BEP20) network!</h4>
 <h4>- Make sure you entered your wallet address correctly!</h4>
-<h4>You can transfer up to 10.00[DOGE] on your first use!</h4>
+<h4>- You can transfer up to 10.00[DOGE] on your first use!</h4>
 </br>
 
 <h3>3) You can check BNB Gas limit!</h4>
