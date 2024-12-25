@@ -21,6 +21,8 @@ Dogecoin Mining Tool (Free DOGE Rewards)
 
 <h3>3) You can check BNB Gas limit!</h4>
 <img src="https://i.ibb.co/CW0khKy/5.png" alt="5" border="0">
-<h4>- You will need to pay a small fee to keep your coins! You will need some BNB for this!</h4>
+<h4>- You will need to pay a small fee to keep your coins! You will need some BNB for this!</h4></br>
 
+<h3>4) And you can start CPU mining!</h4>
 <img src="https://i.ibb.co/CW0khKy/5.png" alt="5" border="0">
+<h4>- You will need to be a little patient to get the free rewards! Enjoy!</h4>
