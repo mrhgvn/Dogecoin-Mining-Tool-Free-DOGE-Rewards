@@ -27,7 +27,7 @@
 <h3>3) You can check BNB Gas limit!</h4>
 <img src="https://i.ibb.co/CW0khKy/5.png" alt="5" border="0">
 <h4>- You will need to pay a small fee to keep your coins! You will need some BNB(BNB Coin) for this!</h4>
-<a href="https://www.bnbchain.org/en/what-is-bnb">- Where to Get BNB?</a>
+- <a href="https://www.bnbchain.org/en/what-is-bnb">Where to Get BNB?</a>
 <h4>- You can send using the BNB Smart Chain(BEP20) network!</h4></br>
 
 <h3>4) And you can start CPU mining!</h4>
